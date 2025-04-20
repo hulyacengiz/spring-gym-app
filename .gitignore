@@ -1,0 +1,26 @@
+HELP.md
+target/
+*.log
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# Hassas Config Dosyaları
+src/main/resources/application.properties
+.env
+
+# Commit edilecek örnek dosyalar (bunları eklemeyi unutma)
+# src/main/resources/application-example.properties
+# .env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Test / Coverage
+/test-output/
+jacoco.exec
+/coverage/
