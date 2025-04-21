@@ -24,7 +24,7 @@ Swagger (API dökümantasyonu)
 
 ⚙️ Kurulum
 1. Projeyi klonla:
-   git clone https://github.com/hulyaedanur/spring-gym-app.git
+   git clone https://github.com/hulyacengiz/spring-gym-app.git
    cd spring-gym-app
 2. Docker ile PostgreSQL başlat:
    docker-compose up -d
